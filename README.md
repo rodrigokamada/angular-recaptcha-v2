@@ -224,7 +224,7 @@ Build at: 2021-08-28T12:35:07.166Z - Hash: 0612b9d911a0acdf2b42 - Time: 10102ms
 
 **10.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-recaptcha-v2/) and [Stackblitz](https://stackblitz.com/edit/angular12-recaptcha-v2).
 
-![Angular reCAPTCHA v2](docs/images/angular-recaptcha.png)
+![Angular reCAPTCHA v2](docs/images/angular-recaptcha-v2.png)
 
 
 

@@ -1,4 +1,4 @@
-# Angular reCAPTCHA v2
+# Angular Google reCAPTCHA v2
 
 
 Application example built with [Angular 12](https://angular.io/) and adding the Google reCAPTCHA v2 component using the [ng-recaptcha](https://www.npmjs.com/package/ng-recaptcha) library.

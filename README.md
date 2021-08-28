@@ -1,0 +1,1 @@
+# Angular reCAPTCHA v2

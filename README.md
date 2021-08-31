@@ -89,7 +89,7 @@ CREATE angular-recaptcha-v2/src/app/app.component.ts (225 bytes)
 
 **2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://github.com/rodrigokamada/angular-bootstrap)*.
 
-**3.** Configure the siteKey variable with the Google reCAPTCHA key in the `src/environments/environment.ts` and `src/environments/environment.prod.ts` files as below.
+**3.** Configure the `siteKey` variable with the Google reCAPTCHA key in the `src/environments/environment.ts` and `src/environments/environment.prod.ts` files as below.
 
 ```typescript
 recaptcha: {

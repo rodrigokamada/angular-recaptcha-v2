@@ -168,17 +168,17 @@ export class AppComponent {
   <h1>Angular reCAPTCHA v2</h1>
 
   <form #form="ngForm">
-    <div class="row pt-3">
-      <div class="col-sm-12 form-group">
+    <div class="row mt-3">
+      <div class="col-sm-12 mb-2">
         <re-captcha id="recaptcha" name="recaptcha" #recaptcha="ngModel" [(ngModel)]="token" required [class.is-invalid]="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)"></re-captcha>
         <div *ngIf="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)" class="invalid-feedback">
           <div *ngIf="recaptcha.errors?.required">This field is required.</div>
         </div>
       </div>
     </div>
-    <div class="row pt-3">
-      <div class="col-sm-12 form-group">
-        <button type="button" class="btn btn-primary btn-sm btn-block" (click)="send(form)">Send</button>
+    <div class="row">
+      <div class="col-sm-12 mb-2">
+        <button type="button" class="btn btn-sm btn-primary" (click)="send(form)">Send</button>
       </div>
     </div>
   </form>

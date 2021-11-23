@@ -172,7 +172,7 @@ export class AppComponent {
       <div class="col-sm-12 mb-2">
         <re-captcha id="recaptcha" name="recaptcha" #recaptcha="ngModel" [(ngModel)]="token" required [class.is-invalid]="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)"></re-captcha>
         <div *ngIf="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)" class="invalid-feedback">
-          <div *ngIf="recaptcha.errors?.required">This field is required.</div>
+          <div *ngIf="recaptcha.errors?.['required']">This field is required.</div>
         </div>
       </div>
     </div>

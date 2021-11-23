@@ -1,15 +1,15 @@
 # Angular Google reCAPTCHA v2
 
 
-Application example built with [Angular 12](https://angular.io/) and adding the Google reCAPTCHA v2 using the [ng-recaptcha](https://www.npmjs.com/package/ng-recaptcha) library.
+Application example built with [Angular 13](https://angular.io/) and adding the Google reCAPTCHA v2 using the [ng-recaptcha](https://www.npmjs.com/package/ng-recaptcha) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-google-recaptcha-v2-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-google-recaptcha-v2-to-an-angular-application-1o7o) in english.
 
 
 
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
+[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
+[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
 
 
 

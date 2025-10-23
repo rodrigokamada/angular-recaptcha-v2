@@ -23,7 +23,7 @@
     "@angular/platform-browser": "^15.2.8",
     "@angular/platform-browser-dynamic": "^15.2.8",
     "@angular/router": "^15.2.8",
-    "bootstrap": "^5.2.3",
+    "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",
     "ng-recaptcha": "^13.2.1",
     "rxjs": "~7.8.2",

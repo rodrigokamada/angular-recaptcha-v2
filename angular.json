@@ -17,9 +17,8 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "outputPath": "dist/angular-recaptcha-v2",
-            "index": "src/index.html",
             "browser": "src/main.ts",
+            "index": "src/index.html",
             "polyfills": [
               "zone.js",
               "src/polyfills.ts"

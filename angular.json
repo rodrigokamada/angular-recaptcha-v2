@@ -75,10 +75,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "angular-recaptcha-v2:build:production"
+              "buildTarget": "angular-recaptcha-v2:build:production"
             },
             "development": {
-              "browserTarget": "angular-recaptcha-v2:build:development"
+              "buildTarget": "angular-recaptcha-v2:build:development"
             }
           },
           "defaultConfiguration": "development"

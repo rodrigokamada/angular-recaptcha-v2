@@ -6,7 +6,7 @@ import { NgForm } from '@angular/forms';
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })
-export class AppComponent {
+export class App {
 
   token: string|undefined;
 

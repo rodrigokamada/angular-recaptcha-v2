@@ -1,8 +1,16 @@
 import { Component } from '@angular/core';
-import { NgForm } from '@angular/forms';
+import { CommonModule } from '@angular/common';
+import { FormsModule, NgForm } from '@angular/forms';
+import { RecaptchaFormsModule, RecaptchaModule } from 'ng-recaptcha';
 
 @Component({
   selector: 'app-root',
+  imports: [
+    CommonModule,
+    FormsModule,
+    RecaptchaModule,
+    RecaptchaFormsModule,
+  ],
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })

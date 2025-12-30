@@ -33,7 +33,6 @@
     "@angular/cli": "^21.0.0",
     "@angular/compiler-cli": "^21.0.0",
     "@types/jasmine": "~5.1.13",
-    "jasmine-core": "~5.12.1",
     "typescript": "~5.9.3"
   },
   "overrides": {

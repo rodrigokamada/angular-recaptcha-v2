@@ -33,7 +33,7 @@
     "@angular/compiler-cli": "^21.0.8",
     "jsdom": "^27.4.0",
     "typescript": "~5.9.3",
-    "vitest": "^4.0.16"
+    "vitest": "^4.0.17"
   },
   "overrides": {
     "ng-recaptcha": {

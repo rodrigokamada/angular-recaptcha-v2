@@ -12,7 +12,7 @@
     "build:prod": "ng build --configuration production --base-href https://rodrigokamada.github.io/angular-recaptcha-v2/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
+    "test:headless": "ng test --watch=false"
   },
   "dependencies": {
     "@angular/common": "^21.0.6",

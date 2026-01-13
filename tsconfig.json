@@ -9,6 +9,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "isolatedModules": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,

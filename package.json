@@ -5,6 +5,18 @@
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "overrides": [
+      {
+        "files": "*.html",
+        "options": {
+          "parser": "angular"
+        }
+      }
+    ]
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
